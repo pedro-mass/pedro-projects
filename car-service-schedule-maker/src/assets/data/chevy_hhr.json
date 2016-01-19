@@ -1,0 +1,46 @@
+{
+  "service_intervals": [{
+    "miles": "3000",
+    "time_period": "3",
+    "services": [
+      "Change the engine oil and oil filter"
+    ]
+  }, {
+    "miles": "6000",
+    "time_period": "6",
+    "services": [
+      "Inspect the windshield wiper blades",
+      "Check and service the battery",
+      "Check the cooling sytsem",
+      "Rotate the tires",
+      "Check the seat belts",
+      "Inspect the brake system"
+    ]
+  }, {
+    "miles": "15000",
+    "time_period": "12",
+    "services": [
+      "Replace the interior ventilation filter",
+      "Check all underhood hoses",
+      "Inspect the suspension, steering components and driveaxle boots",
+      "Check the exhaust system",
+      "Check the fule system",
+      "Check the engine drivebelts"
+    ]
+  }, {
+    "miles": "30000",
+    "time_period": "24",
+    "services": [
+      "Check the air filter",
+      "Service the cooling system",
+      "Change the brake fluid"
+    ]
+  }, {
+    "miles": "100000",
+    "services": [
+      "Replace the automatic transaxle fluid",
+      "Replace the manual transaxle lubricant",
+      "Replace the spark plugs"
+    ]
+  }]
+}
